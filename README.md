@@ -1,9 +1,9 @@
 # Moto-Care
 Motorcycle/Car maintenance tracker
 
-Title: MotoCare – Vehicle Maintenance Tracker
+MotoCare – Vehicle Maintenance Tracker
 
-Short Description (80 char): Track maintenance, service logs & reminders for your motorcycle or car.
+Track maintenance, service logs & reminders for your motorcycle or car.
 
 Full Description:
 
